@@ -5,6 +5,7 @@ call_to_action: Contact
 large_header: true
 testimonials:
   - message: The smartest person I know
+    image: "uploads/tmc-logo.png"
     name: SVP product strategy
   - message: I can always outsource my thinking to you
     name: head of operational resilience
