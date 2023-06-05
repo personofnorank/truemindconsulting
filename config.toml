@@ -6,6 +6,7 @@ googleAnalytics = ""
 Paginate = 10
 PaginatePath = "/"
 enableRobotsTXT = true
+rssLimit = 20
 
 [taxonomies]
   category = "categories"
