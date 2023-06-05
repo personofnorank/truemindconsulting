@@ -15,7 +15,7 @@ image: "/uploads/wicked-1.jpeg"
 **Or how to stop looking for solutions, make sense of a situation and do the next right thing**
 
 ![image](/uploads/wicked-1.jpeg#layoutTextWidth)
-<figcaption>Francisco de Goya — _El sueño de la razón produce monstruos_</figcaption>
+<figcaption>Francisco de Goya — El sueño de la razón produce monstruos</figcaption>
 
 
 
