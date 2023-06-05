@@ -8,10 +8,13 @@ testimonials:
     image: "uploads/tmc-logo.png"
     name: SVP product strategy
   - message: I can always outsource my thinking to you
+    image: "uploads/tmc-logo.png"
     name: head of operational resilience
   - message: You can turn your hand to anything
+    image: "uploads/tmc-logo.png"
     name: head of production services
   - message: Sharing complex knowledge in an accessible and consumable way
+    image: "uploads/tmc-logo.png"
     name: head of business architecture
 ---
 Do you have a complex problem, but lack the time or skilled resources to address it?
