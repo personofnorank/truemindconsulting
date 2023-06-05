@@ -9,14 +9,13 @@ description: ""
 image: "/uploads/wicked-1.jpeg" 
 
 ---
+A wicked problem is one that isn’t susceptible to linear thinking¹.
 
-**Or how to stop looking for solutions, make sense of a situation and do the next right thing**
 <!--more-->
 
 ![image](/uploads/wicked-1.jpeg#layoutTextWidth)
 <figcaption>Francisco de Goya — El sueño de la razón produce monstruos</figcaption>
 
-A wicked problem is one that isn’t susceptible to linear thinking¹.
 
 Linear thinking means you frame the problem, you come up with a solution, and the problem disappears. There may be other problems down the line, but you just knock ’em down one at a time and keep going.A trending example is to say we’re emitting too much CO2 by burning fossil fuels, but we still need all that energy, so let’s move to renewables. No more CO2 emissions, problem solved. A slightly more sophisticated version of this says we’ll add in carbon capture and storage (CCS).
 
