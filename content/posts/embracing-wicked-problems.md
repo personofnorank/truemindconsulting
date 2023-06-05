@@ -1,6 +1,6 @@
 ---
 title: "Embracing wicked problems"
-author: "Jake Hoban"
+author: jake-hoban
 date: 2023-05-17T21:15:43.564Z
 lastmod: 2023-06-05T16:05:54+01:00
 
