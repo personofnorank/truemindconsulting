@@ -8,7 +8,7 @@ description: ""
 
 subtitle: "I had the good fortune to see an exhibition of Vermeer’s paintings at the Rijksmuseum in Amsterdam. Like all great art, they have something…"
 
-image: "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/1.jpg" 
+image: "images/1.jpg" 
 images:
  - "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/1.jpg"
  - "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/2.jpg"
