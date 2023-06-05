@@ -17,10 +17,10 @@ enableRobotsTXT = true
   posts = ":section/:year/:month/:day/:title/"
 
 [params]
-  backgroundImagePath = "/uploads/building.jpg"
-  description = "Hugo template with example content for a law firm."
+  backgroundImagePath = "/uploads/tmc-logo.jpg"
+  description = "Full moon logo copyright True Mind Consulting."
   images = ["siteicon.png"]
-  title = "Justice Template"
+  title = "True Mind Consulting"
 
 [params._selectData]
   call_to_actions = ["Contact", "Blog", "Map"]
