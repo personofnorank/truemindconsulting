@@ -1,15 +1,11 @@
-title: Justice
-description: Working with people for over 50 years. Justice Law strives to excel for all clients in every situation.
-contact_email_address: contact@example.com
-phone: (03) 123 4567
-address: 123 Example Street, Gooseburb, 9876, Ducktown, New Zealand
-postal_address: PO Box 123, Ducktown, New Zealand
+title: True Mind Consulting
+description: Sensemaking for an uncertain world
+contact_email_address: contact@truemindconsulting.com
+phone: +44-7980-992380
+address:
+postal_address:
 social_links:
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Instagram
-    link: https://instagram.com/
   - name: LinkedIn
-    link: https://linkedin.com/
+    link: https://linkedin.com/in/jakehoban
+  - name: Medium
+    link: https://medium.com/@personofnorank
