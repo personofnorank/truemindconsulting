@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://truemindconsulting.com/"
 languageCode = "en-us"
 summaryLength = 20
 disqusShortname = ""
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 
 [params._selectData]
   call_to_actions = ["Contact", "Blog", "Map"]
-  social_icons = ["Facebook", "Instagram", "LinkedIn", "Pinterest", "Tumblr", "Twitter", "YouTube", "RSS"]
+  social_icons = ["LinkedIn", "Medium", "RSS"]
 
 [params._options.type]
   hidden = true
