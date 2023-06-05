@@ -6,10 +6,6 @@ categories:
 author: jake-hoban
 image: /uploads/depth-1.jpg
 draft: 
----
-
-aliases:
-    - "/depth-contrast-and-multiple-perspectives-8ae9a030f199"
 
 ---
 
