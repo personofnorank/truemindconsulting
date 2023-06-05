@@ -1,0 +1,8 @@
+
+
+  {{ $urlPre := ‘https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@personofnorank' }}
+  {{ $id := .Site.Params.inst_access }}
+  {{ $medium := getJSON $urlPre $id }}
+  {{ range first 5 $medium.data }}
+  <li><a href="{{ .link }}" target="_blank"><img src="{{ .images.standard_resolution.url }}" alt="{{ .caption.text }}"></a></li>
+      {{ end }}
