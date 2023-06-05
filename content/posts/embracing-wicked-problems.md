@@ -6,8 +6,6 @@ lastmod: 2023-06-05T16:05:54+01:00
 
 description: ""
 
-subtitle: "Or how to stop looking for solutions, make sense of a situation and do the next right thing"
-
 image: "/uploads/wicked-1.jpeg" 
 
 ---
