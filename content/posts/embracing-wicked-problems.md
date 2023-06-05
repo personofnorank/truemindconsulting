@@ -151,4 +151,4 @@ Embracing the reality of wicked problems, which I’d argue includes all the rea
 
 ² My use of these metaphors as gateways to systemic insight and action is taken from _Systems Thinking for the Management of Complexity_ by Michael C. Jackson, who applies the work of Lakoff and Johnson to his own considerable experience of systems interventions.
 
-³ I’m not a Chinese speaker, and apologise to anyone who is if I have misinterpreted any nuances. I was made aware of this character and its implications in an extract from _Fl_o_wers in the Dark_ by Sister Dang Nghiem of Plum Village. A couple of days after writing this article I came across a discussion of the same character in chapter 14 of Iain McGilchrist’s _The Matter with Things_.
+³ I’m not a Chinese speaker, and apologise to anyone who is if I have misinterpreted any nuances. I was made aware of this character and its implications in an extract from _Flowers in the Dark_ by Sister Dang Nghiem of Plum Village. A couple of days after writing this article I came across a discussion of the same character in chapter 14 of Iain McGilchrist’s _The Matter with Things_.
