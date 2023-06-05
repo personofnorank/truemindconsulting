@@ -6,7 +6,7 @@
 	{{ end }}
 
 	<div class="post-summary-content {{ if .Params.image }}has-post-summary-image{{ end }}">
-		<h3 class="post-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	<!--	<h3 class="post-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 		{{ .Render "summary-details" }}
 
 		{{ $author := index .Site.Data.authors (.Params.author | default "default") }}
@@ -14,9 +14,10 @@
 			<p class="post-summary-author">
 				<img src="{{ $author.image }}" alt="Photo of {{ $author.name }}" width="30" height="30"> {{ $author.name }}
 			</p>
-		{{ end }}
+		{{ end }} -->
+			{{ partial "medium.html" . }}
 	</div>
 
 	<p class="post-summary-excerpt">{{ .Summary }}</p>
-	{{ partial "medium.html" . }}
+
 </li>
