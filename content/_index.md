@@ -4,9 +4,14 @@ title: Home
 call_to_action: Contact
 large_header: true
 testimonials:
-  - message: We use Justice Law in all our endeavours. They offer an unparalleled service when it comes to running a business.
-    image: "https://placekitten.com/g/60/60?a=.png"
-    name: Joice Carmold
+  - message: The smartest person I know
+    name: SVP product strategy
+  - message: I can always outsource my thinking to you
+    name: head of operational resilience
+  - message: You can turn your hand to anything
+    name: head of production services
+  - message: Sharing complex knowledge in an accessible and consumable way
+    name: head of business architecture
 ---
 Do you have a complex problem, but lack the time or skilled resources to address it?
 
