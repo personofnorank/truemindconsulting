@@ -8,12 +8,6 @@ image: /uploads/depth-1.jpg
 draft: 
 ---
 
-images:
- - "/uploads/depth-1.jpg"
- - "/uploads/depth-2.jpg"
- - "/uploads/depth-3.jpg"
-
-
 aliases:
     - "/depth-contrast-and-multiple-perspectives-8ae9a030f199"
 
