@@ -11,7 +11,7 @@ menu:
 
 ### Sensemaking
 
-Engage me to help you frame, understand and decide what to do about a complex issue. Strategy, operations, culture, future-readiness - whatever is of concern. Whatever you ask me to look at, I'll show you how it connects to other things too.
+Engage me to help you frame, understand and decide what to do about a complex issue. Strategy, operations, culture, future-readiness - whatever you ask me to look at, I'll show you how it connects to other things too.
 
 <!-- ![Property image](https://unsplash.it/960/350?image=946) -->
 
