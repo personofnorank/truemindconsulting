@@ -17,7 +17,7 @@ enableRobotsTXT = true
   posts = ":section/:year/:month/:day/:title/"
 
 [params]
-  backgroundImagePath = "/uploads/tmc-logo.jpg"
+  backgroundImagePath = "/uploads/tmc-logo.png"
   description = "Full moon logo copyright True Mind Consulting."
   images = ["siteicon.png"]
   title = "True Mind Consulting"
