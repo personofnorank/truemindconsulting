@@ -3,6 +3,6 @@ title:
 date:
 categories:
 author:
-image:
+image: true
 draft: true
 ---
