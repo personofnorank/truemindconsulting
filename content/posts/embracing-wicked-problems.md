@@ -15,7 +15,7 @@ image: "/uploads/wicked-1.jpeg"
 **Or how to stop looking for solutions, make sense of a situation and do the next right thing**
 
 ![image](/uploads/wicked-1.jpeg#layoutTextWidth)
-Francisco de Goya — _El sueño de la razón produce monstruos_
+<figcaption>Francisco de Goya — _El sueño de la razón produce monstruos</figcaption>
 
 
 
@@ -28,7 +28,7 @@ This only works within a very narrow mental model or system that only looks at h
 The first trap is [Jevons’s paradox](https://en.wikipedia.org/wiki/Jevons_paradox): making use of a resource more efficient increases rather than decreases the amount used (at least in a system where there are intrinsic drivers for growth such as increasing profit and GDP).
 
 ![image](/uploads/wicked-2.png#layoutTextWidth)
-Increase in use of renewables has not led to a decrease in use of fossil fuels
+<figcaption>Increase in use of renewables has not led to a decrease in use of fossil fuels</figcaption>
 
 
 
@@ -43,7 +43,7 @@ The second trap is that renewables require a [massive expansion of mining](https
 … and there isn’t enough of the materials anyway
 
 ![image](/uploads/wicked-3.png#layoutTextWidth)
-Palabora copper mine, South Africa with visualisation of actual amount of copper extracted © Dillon Marsh
+<figcaption>Palabora copper mine, South Africa with visualisation of actual amount of copper extracted © Dillon Marsh</figcaption>
 
 
 
@@ -65,14 +65,14 @@ A couple of things to note:
 2.Although it’s intuitive to sketch things this way, this goes beyond what can be modelled and simulated using the systems dynamics method based on stocks and flows — we start with natural world phenomena that can in principle be modelled but move quickly into social, economic and political phenomena that can’t as they occur through conscious human agency. If you thought the three body problem in physics was hard… this is orders of magnitude harder.In 1972 a thinktank called the [Club of Rome](https://www.clubofrome.org/) published a report by a group of MIT scientists called [Limits to Growth](https://www.clubofrome.org/publication/the-limits-to-growth/). This used a simplified but rigorous model of world population, technology, resource use and pollution to outline possible future trajectories based on possible policy decisions. It wasn’t a prediction so much as a description of how the world system works. They populated the model with real world data, set parameters for a number of possible scenarios and ran simulations (which was a big deal with the tech available at the time — today you can run them yourself [in a browser](https://insightmaker.com/insight/2pCL5ePy8wWgr4SN8BQ4DD/The-World3-Model-Classic-World-Simulation)). The models showed that the Business as Usual scenario — without reduction in resource usage and population — would lead to overshoot and collapse, in other words society would outstrip the ability of the earth to supply resources and absorb waste, leading to a sharp drop in population and welfare among other things.
 
 ![image](/uploads/wicked-5.png#layoutTextWidth)
-Simulation result from InsightMaker website (link in paragraph above)
+<figcaption>Simulation result from InsightMaker website (link in paragraph above)</figcaption>
 
 
 
 In 2020, researcher Gaya Herrington tested the model based on the 50 years’ worth of data since the book was published, and [concluded](https://dash.harvard.edu/handle/1/37364868) that we are on track for the “BAU2” scenario which allows for more resource extraction than the original authors had posited, and hence a longer period of growth followed by a collapse driven by pollution (the data were also consistent with the possibility that we can still rapidly innovate our way out of collapse, but other real-world experience makes that look unlikely).
 
 ![image](/uploads/wicked-6.png#layoutTextWidth)
-Gaya Herrington’s 2020 update showing fit of real-world data to various trajectories
+<figcaption>Gaya Herrington’s 2020 update showing fit of real-world data to various trajectories</figcaption>
 
 
 
@@ -111,7 +111,7 @@ The final metaphor I’ll mention is that of the ecosystem or web of interrelati
 2.  _Find where you are._ There is no “view from nowhere”. You are always standing on a particular hill or in a particular valley looking at that part of the terrain that you can see. Every actor who might want to influence the system is also part of the system, which is why there isn’t actually one system that can be objectively defined, there are as many as there are actors, multiplied by the perspectives each actor can take.
 3.  _Constraints enable creativity_. Consider what you know about dependencies, feedback loops and cascading risks as “enabling constraints”. Knowing what you can’t or shouldn’t do is a spur to creativity, just like the rules of any game force you to innovate within the constraints of those rules. In particular, creativity can entail reframing the problem to ask different questions. Knowing that human beings can’t fly by flapping our arms eventually led us to invent flying machines. Knowing that we can’t breathe underwater led us to invent snorkels and SCUBA. To return to the energy dilemma, instead of asking “how can we keep meeting our energy needs without fossil fuels” you can ask “do we really need so much energy?” or even “how can we survive and thrive within the existing energy systems of our planet?” That doesn’t mean you find a magic solution that had eluded you so far — whatever you come up with will have impacts and trade-offs. Using less energy will mean giving up some things we’ve got used to.
 ![image](/uploads/wicked-12.png#layoutTextWidth)
-Thinking / perception
+<figcaption>Thinking / perception</figcaption>
 
 
 
