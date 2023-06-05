@@ -9,24 +9,23 @@ menu:
     weight: 3
 ---
 
-Our specialised team has the skill and experience to provide a range of services. The utmost care is taken with all our work. The main streams of work we perform are as follows:
+I help organisations make sense of situations and identify possibilities for action.
+Our world is living through an ongoing "polycrisis" or "metacrisis" characterised by increasing complexity, volatility and cascading risks. The assumptions of stability, perpetual growth and linear extrapolation of past events no longer hold, if they ever did.
+As a deep generalist and systems thinker I can dive into whatever area is of concern to you, while bringing out connections with other domains you may not have considered. I help you see the choices available and their potential impacts, without sugar-coating or overselling. What you get with me is not big consulting house "best practice" but honest and practical insight tailored to your situation.
 
-### Property
+### Sensemaking
 
-The first contact with law for many people is when buying a first home. We can assist you through this process, managing the details and offering advice. When or if the time comes, we'll also assist with selling your home.
-
-We have expertise in the consent process for new developments and improvements, as well as helping you manage assets through trusts.
+Engage me to help you frame, understand and decide what to do about a complex issue. Strategy, operations, culture - whatever is of concern. Whatever you ask me to look at, I'll show you how it connects to other things too.
 
 ![Property image](https://unsplash.it/960/350?image=946)
 
-### Employment
+### Interim roles
 
-If you're looking to employ or be employed, we offer solid advice and assistance with creating and reading agreements. We have a proven track record handling disputes.
-
+Do you need someone to stand up a new program, operating model, process or organisational function? You may not need a permanent headcount but need a dedicated resource to scope out the landscape, get things up and running and hand them over to BAU. I bring sensemaking to bear when understanding what needs to be included, how the parts need to work together in service of the whole and how it needs to be left so that you can run it after I'm done.
 ![Employment image](https://unsplash.it/960/350?image=668)
 
-### Business
+### Fractional roles
 
-From structuring and mergers to shareholder agreements, we are here to assist you when starting, buying, running or selling your business.
+Need someone to look things over, stay on top of what's important and be a point of contact for a few days a week, or month? I can taillor my enagement so that you get the level of detail and engagement that makes sense for you.
 
 ![Business image](https://unsplash.it/960/350?image=376)

@@ -1,26 +1,11 @@
 ---
+_schema: default
 title: Home
 call_to_action: Contact
 large_header: true
-menu:
-  footer:
-    weight: 1
-testimonials:
-  - message: We use Justice Law in all our endeavours. They offer an unparalleled service when it comes to running a business.
-    image: "https://placekitten.com/g/60/60?a=.png"
-    name: Joice Carmold
-  - message: Justice Law are the best of the best. Being local, they care about people and have strong ties to the community.
-    image: "https://www.fillmurray.com/60/60?a=.png"
-    name: Peter Rottenburg
-  - message: Justice Law were everything we could have hoped for when buying our first home. Highly recommended to all.
-    image: "https://placebear.com/60/60?a=.png"
-    name: D. and G. Gibbleston
-_options:
-  image:
-    width: 60
-    height: 60
 ---
+Do you have a complex problem, but lack the time or skilled resources to address it?
 
-This is the *Justice* template from [CloudCannon](https://cloudcannon.com/). Justice is strong foundation for the web presence of a law firm or business. It's filled with fictitious example content to get you started.
+Do you feel your teams or processes aren't working effectively, but it's hard to unpick why that is?
 
-Justice Law is professional representation. Practicing for over 50 years, our team have the knowledge and skills to get you results.
+**Consider engaging me as someone who can ask the right questions, synthesise knowledge from across the silos in your organisation and present it in a way that makes sense and helps you decide what to do next.**
