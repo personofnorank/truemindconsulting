@@ -124,11 +124,11 @@ _First assumption_: there is some level of underlying infrastructure that won’
 _Second assumption_: the scenarios you can think of are the only ones that can happen.
 
 ![image](/uploads/wicked-13.png#layoutTextWidth)
-Illustrative examples of resilient technology architecture
+<figcaption>Illustrative examples of resilient technology architecture</figcaption>
 
 
 ![image](/uploads/wicked-14.png#layoutTextWidth)
-Headline in The Guardian, July 2022
+<figcaption>Headline in The Guardian, July 2022</figcaption>
 
 > “Whilst the simultaneous failure of both data centres may have been a low probability event, the heatwave (and the potential impact on data centres) was predictable, and yet the Trust risk and governance mechanisms failed to prevent the IT outage of 19th July.” — [report into Guy’s and St Thomas’s NHS Trust data centre outage 2022](https://www.guysandstthomas.nhs.uk/sites/default/files/2023-01/IT-critical-incident-review.pdf)
 
@@ -143,7 +143,7 @@ Applying the three suggested guidelines above could give us something like this:
 You may have spotted a paradox here: I started by painting a big picture of a system with lots of interacting parts, but now I’m saying we can’t change the whole system, only some of the parts. In fact the paradox is in reality, and the point of systems thinking and practice is to be able to see it and work with it. It’s not that you can’t change the whole system — it’s just that history shows that attempts to do that in an overarching way always lead to different results than intended. Conversely smaller attempts at change can steer a larger system in a positive direction.
 
 ![image](/uploads/wicked-15.png#layoutTextWidth)
-Image credit: JR Forasteros
+<figcaption>Image credit: JR Forasteros</figcaption>
 
 
 
