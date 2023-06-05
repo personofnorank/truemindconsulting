@@ -10,9 +10,9 @@ subtitle: "I had the good fortune to see an exhibition of Vermeer’s paintings 
 
 image: "images/1.jpg" 
 images:
- - "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/1.jpg"
- - "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/2.jpg"
- - "/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/3.jpg"
+ - "images/1.jpg"
+ - "images/2.jpg"
+ - "images/3.jpg"
 
 
 aliases:
@@ -24,7 +24,7 @@ I had the good fortune to see an exhibition of Vermeer’s paintings at the [Rij
 
 Vermeer is known for his mastery of perspective, lighting and depth. You’ve probably seen photos or prints of some of his paintings, but to see them up close is qualitatively different. To appreciate them you need to spend some time looking quite deeply and from several different angles. What might seem, when viewed directly from in front, like an undifferentiated dark brown or blue swirl of paint turns out when viewed more roundly to be a garment or carpet full of intricate detail and gradations of light and dark that convey perspective. It contains hidden depth — not hidden by any artifice but hidden in plain sight from the casual glance and yielding only to a more curious and patient engagement.
 
-![image](/posts/2023-05-30_depth-contrast-and-multiple-perspectives/images/1.jpg#layoutTextWidth)
+![image](images/1.jpg#layoutTextWidth)
 Woman with a lute: detail emerges slowly from darkness
 
 
