@@ -7,10 +7,6 @@ author: jake-hoban
 image: /uploads/depth-1.jpg
 draft: 
 ---
----
-description: ""
-
-subtitle: "I had the good fortune to see an exhibition of Vermeer’s paintings at the Rijksmuseum in Amsterdam. Like all great art, they have something…"
 
 images:
  - "/uploads/depth-1.jpg"
