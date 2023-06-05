@@ -12,7 +12,7 @@
 				<label>Email Address</label>
 				<p class="contact-info"><a href="mailto:{{ $.Site.Data.company.contact_email_address }}">{{ $.Site.Data.company.contact_email_address }}</a></p>
 
-				<label>Postal Address</label>
+<!--				<label>Postal Address</label>
 				<address class="contact-info">
 					{{ $postal_address_parts := split $.Site.Data.company.postal_address "," }}
 					{{ range $i, $part := $postal_address_parts }}
@@ -28,7 +28,7 @@
 						{{ $part }}
 					{{ end }}
 				</address>
-			</div>
+-->			</div>
 
 			<div class="column">
 				<form method="post" action="/contact-success/">
