@@ -8,16 +8,10 @@ image: /static/uploads/depth-1.jpg
 draft: 
 ---
 ---
-title: "Depth, contrast and multiple perspectives"
-author: "Jake Hoban"
-date: 2023-05-30T23:41:11.402Z
-lastmod: 2023-06-05T16:05:59+01:00
-
 description: ""
 
 subtitle: "I had the good fortune to see an exhibition of Vermeer’s paintings at the Rijksmuseum in Amsterdam. Like all great art, they have something…"
 
-image: "/static/uploads/depth-1.jpg" 
 images:
  - "/static/uploads/depth-1.jpg"
  - "/static/uploads/depth-2.jpg"
