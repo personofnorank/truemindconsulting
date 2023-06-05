@@ -22,6 +22,6 @@ Do you need someone to stand up a new program, operating model, process or organ
 
 ### Fractional roles
 
-Need someone to look things over, stay on top of what's important and be a point of contact for a few days a week, or month? I can taillor my enagement so that you get the level of detail and engagement that makes sense for you.
+Need someone to look things over, stay on top of what's important and be a point of contact for a few days a week, or month? I can tailor my enagement so that you get the level of detail and engagement that makes sense for you.
 
 <!-- ![Business image](https://unsplash.it/960/350?image=376) -->
