@@ -8,11 +8,11 @@ description: ""
 
 subtitle: "I had the good fortune to see an exhibition of Vermeer’s paintings at the Rijksmuseum in Amsterdam. Like all great art, they have something…"
 
-image: "images/1.jpg" 
+image: "/static/uploads/depth-1.jpg" 
 images:
- - "images/1.jpg"
- - "images/2.jpg"
- - "images/3.jpg"
+ - "/static/uploads/depth-1.jpg"
+ - "/static/uploads/dpeth-2.jpg"
+ - "/static/uploads/dpeth-3.jpg"
 
 
 aliases:
@@ -24,13 +24,13 @@ I had the good fortune to see an exhibition of Vermeer’s paintings at the [Rij
 
 Vermeer is known for his mastery of perspective, lighting and depth. You’ve probably seen photos or prints of some of his paintings, but to see them up close is qualitatively different. To appreciate them you need to spend some time looking quite deeply and from several different angles. What might seem, when viewed directly from in front, like an undifferentiated dark brown or blue swirl of paint turns out when viewed more roundly to be a garment or carpet full of intricate detail and gradations of light and dark that convey perspective. It contains hidden depth — not hidden by any artifice but hidden in plain sight from the casual glance and yielding only to a more curious and patient engagement.
 
-![image](images/1.jpg#layoutTextWidth) <figcaption>Woman with a lute: detail emerges slowly from darkness</figcaption>
+![image](/static/uploads/depth-1.jpg#layoutTextWidth) <figcaption>Woman with a lute: detail emerges slowly from darkness</figcaption>
 
 
 
 Vermeer uses light to draw the viewer’s attention to areas he wants to highlight. Again, this is no artifice as the light is carefully observed and falls just where you would expect from the open window. Of course the scenes were staged so that the light would indeed fall in this way. The contrast between the areas that are signposted by the light and the darker ones where we have to work to make out the rich detail is striking but not crude — there is much to be seen in both, and the combination brings out the unique qualities of each more than seeing just light or dark by themselves could do.
 
-![image](images/2.jpg#layoutTextWidth)
+![image](/static/uploads/depth-2.jpg#layoutTextWidth)
 <figcaption>Woman writing, with her maid: more than one perspective</figcaption>
 
 
@@ -45,5 +45,5 @@ _Multiple perspectives_: whom you ask for information determines the kind of inf
 
 One bonus point. What I’m mainly talking about is how to be a skillful enquirer into situations, like the person who takes their time looking at a painting rather than just getting a snap on their phone and moving on to the next one. In itself, this doesn’t require any knowledge of the subject — and I can tell you I’m not an authority on 17th century Holland — but any expertise you do have can certainly add value. Looking at _The lacemaker_ I was fascinated by the expressiveness in the woman’s face and hands, but I didn’t know anything about the tools she’s using. Luckily I was with my mother, who knows her stuff and was able to tell me all about bobbins. This kind of detailed knowledge is helpful when pressed into the service of the kind of curious, wide-ranging enquiry I’ve been describing. It enhances your curiosity and the insights it can attain. But if you had no curiosity and only vaunted what you already know — “that’s a bobbin! that’s a lute!” you’d learn nothing about what you’re looking at and you wouldn’t enlighten anybody else. This is what [Iain McGilchrist](https://channelmcgilchrist.com) means when he calls for pressing the analytical, detail-oriented approach of the left brain hemisphere into the service of the intuitive, holistic approach of the right hemisphere. Of course we need them both, but too often in our data-obsessed world we spend our time counting bobbins and lutes and lose sight of the richer pictures that they’re part of.
 
-![image](images/3.jpg#layoutTextWidth)
+![image](/static/uploads/depth-3.jpg#layoutTextWidth)
 <figcaption>The lacemaker: bobbins, among many other things</figcaption>
