@@ -105,7 +105,9 @@ The existence of these in real life is addressed by another metaphor, that of th
 ![image](/uploads/wicked-11.png#layoutTextWidth)
 
 
-The final metaphor I’ll mention is that of the ecosystem or web of interrelationships — this includes modern systems dynamics but also ancient indigenous perspectives.**So am I saying we can do nothing? Not at all**. But we have to let go of simple or all-encompassing solutions. Here are three possible guidelines:
+The final metaphor I’ll mention is that of the ecosystem or web of interrelationships — this includes modern systems dynamics but also ancient indigenous perspectives.
+
+**So am I saying we can do nothing? Not at all**. But we have to let go of simple or all-encompassing solutions. Here are three possible guidelines:
 
 1.  _Do no harm._ In wicked, complex problems any idea of a simple solution is at best hubristic and at worst disastrous. Because there are so many moving and interacting parts, the [Precautionary Principle](https://necsi.edu/the-precautionary-principle) applies. It’s an updated version of the Hippocratic Oath — do nothing that has a chance of doing catastrophic harm. Anything that attempts to change ”the whole system” at once falls into that category.
 2.  _Find where you are._ There is no “view from nowhere”. You are always standing on a particular hill or in a particular valley looking at that part of the terrain that you can see. Every actor who might want to influence the system is also part of the system, which is why there isn’t actually one system that can be objectively defined, there are as many as there are actors, multiplied by the perspectives each actor can take.
