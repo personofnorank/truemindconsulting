@@ -3,6 +3,12 @@ _schema: default
 title: About
 call_to_action: Contact
 large_header: false
+type: about
+menu:
+  main:
+    weight: 1
+  footer:
+    weight: 2
 ---
 I help organisations facing uncertainty make sense of their situation and identify possibilities for action.
 
