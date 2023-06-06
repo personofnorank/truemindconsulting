@@ -11,8 +11,7 @@ menu:
 
 ### Sensemaking
 
-Engage me to help you frame, understand and decide what to do about a complex issue. Strategy, operations, culture, future-readiness - whatever you ask me to look at, I'll show you how it connects to other things too.
-
+Engage me to help you frame, understand and decide what to do about a complex issue. I won't claim to predict the future or solve all your problems but I will help you understand challenges in your environment, internal factors that may make you less effective in adapting, and what you may be able to do about them.
 <!-- ![Property image](https://unsplash.it/960/350?image=946) -->
 
 ### Interim roles
@@ -22,6 +21,6 @@ Do you need someone to stand up a new program, operating model, process or organ
 
 ### Fractional roles
 
-Need someone to look things over, stay on top of what's important and be a point of contact for a few days a week, or month? I can tailor my enagement so that you get the level of detail and engagement that makes sense for you.
+Need someone to look things over, stay on top of what's important and be an accountable point of contact for a few days a week, or month? I can tailor my enagement so that you get the level of detail and involvement that makes sense for you.
 
 <!-- ![Business image](https://unsplash.it/960/350?image=376) -->
