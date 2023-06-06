@@ -16,7 +16,7 @@ Engage me to help you frame, understand and decide what to do about a complex is
 
 ### Interim roles
 
-Do you need someone to stand up a new program, operating model, process or organisational function? You may not need a permanent headcount but need a dedicated resource to scope out the landscape, get things up and running and hand them over to BAU. I bring sensemaking to bear when understanding what needs to be included, how the parts need to work together in service of the whole and how it needs to be left so that you can run it after I'm done.
+Do you need to stand up a new programme, operating model, process or organisational function? You may not want someone permanent but could use someone with the ability to scope out the landscape, get things up and running and hand them over to BAU. I bring sensemaking to bear when understanding what needs to be included, how the parts need to work together in service of the whole and how it needs to be left so that you can run it after I'm done.
 <!-- ![Employment image](https://unsplash.it/960/350?image=668) -->
 
 ### Fractional roles
