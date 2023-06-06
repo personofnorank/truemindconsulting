@@ -4,7 +4,7 @@ title: About
 call_to_action: Contact
 large_header: false
 ---
-I help organisations make sense of situations and identify possibilities for action.
+I help organisations facing uncertainty make sense of their situation and identify possibilities for action.
 
 ---
 
@@ -12,4 +12,4 @@ Our world is living through an ongoing “polycrisis” or “metacrisis” char
 
 ---
 
-As a deep generalist and systems thinker I can dive into whatever area is of concern to you, while bringing out connections with other domains you may not have considered. I help you see the choices available and their potential impacts, without sugar-coating or overselling. What you get with me is not big consulting house “best practice” but honest and practical insight tailored to your situation.
+As a deep generalist and systems thinker I can dive into whatever topic is of concern to you, while bringing out connections with areas you may not have considered. I help you see the choices available and their potential impacts, without sugar-coating or overselling. What you get with me is not big consulting house “best practice” but honest and practical insight tailored to your situation.
