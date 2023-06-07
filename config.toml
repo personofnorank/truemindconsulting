@@ -8,6 +8,7 @@ PaginatePath = "/"
 enableRobotsTXT = true
 enableRSS = true
 rssLimit = 20
+enableInlineShortcodes = true
 
 [taxonomies]
   category = "categories"

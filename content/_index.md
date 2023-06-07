@@ -3,6 +3,9 @@ _schema: default
 title: Home
 call_to_action: Contact
 large_header: true
+menu:
+  footer:
+    weight: 1
 testimonials:
   - message: The smartest person I know
     image: "uploads/tmc-logo.png"
