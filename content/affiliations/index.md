@@ -15,3 +15,5 @@ map:
 [<img src="images/EEAcademy.png" width="200">](https://enlightenedenterprise.ac)
 [<img src="images/hivemind.png" height="200">](https://hivemindnetwork.com)
 [<img src="images/RedQuadrant.webp" height="200">](https://redquadrant.com)
+
+{{ imgList }}
