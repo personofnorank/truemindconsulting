@@ -16,4 +16,4 @@ map:
 [<img src="images/hivemind.png" height="200">](https://hivemindnetwork.com)
 [<img src="images/RedQuadrant.webp" height="200">](https://redquadrant.com)
 
-{{ imgList }}
+{{ <imgList> }}
