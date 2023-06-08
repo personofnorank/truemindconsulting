@@ -20,9 +20,9 @@ testimonials:
     image: "uploads/tmc-logo.png"
     name: Head of business architecture
 ---
-Do you have a complex problem, but lack the time or skilled resources to address it?
+Do you have a complex problem, but lack the time or skill set to address it?
 
-Do you feel your strategic initiatives, teams or processes aren't working effectively, but it's hard to unpick why that is?
+Do you feel your strategic initiatives, processes or structures aren't working effectively, but it's hard to unpick why that is?
 
 Are you concerned about what the future holds and how your organisation can adapt?
 
