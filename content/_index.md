@@ -18,7 +18,7 @@ testimonials:
     name: Head of production services
   - message: Sharing complex knowledge in an accessible and consumable way
     image: "uploads/tmc-logo.png"
-    name: Head of business architecture
+    name: Head of enterprise architecture
 ---
 Do you have a complex problem, but lack the time or skill set to address it?
 
