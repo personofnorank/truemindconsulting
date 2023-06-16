@@ -52,8 +52,6 @@
 		{{ else if eq .Params.call_to_action "Contact" }}
 			<section class="quote-section">
 				<p class="container editable">
-          <button onclick="Calendly.initPopupWidget({url:'https://calendly.com/jakehoban'});
-          return false;"><h2>Book a consultation</h2></button>
 				</p>
 			</section>
 		{{ else }}
@@ -65,6 +63,13 @@
 			</section>
 	{{ end }}
 
-		{{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}
+		{{ block "footer" . }}{{ partialCached "site-footer.html" . }}
+          <!-- old calendly code <button onclick="Calendly.initPopupWidget({url:'https://calendly.com/jakehoban'});
+          return false;"><h2>Book a consultation</h2></button> -->
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/jakehoban', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->{{ end }}
 	</body>
 </html>

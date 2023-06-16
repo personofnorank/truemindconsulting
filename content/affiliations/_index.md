@@ -12,6 +12,6 @@ map:
   longitude: 170.5027976
   zoom: 13
 ---
-[<img src="images/EEAcademy.png" width="200">](https://enlightenedenterprise.ac)
-[<img src="images/hivemind.png" height="200">](https://hivemindnetwork.com)
-[<img src="images/RedQuadrant.webp" height="200">](https://redquadrant.com) 
+[<p><img src="images/EEAcademy.png" width="200"></p>](https://enlightenedenterprise.ac)
+[<p><img src="images/hivemind.png" height="200"></p>](https://hivemindnetwork.com)
+[<p><img src="images/RedQuadrant.webp" height="200"></p>](https://redquadrant.com) 
