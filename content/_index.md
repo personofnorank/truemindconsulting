@@ -1,6 +1,6 @@
 ---
 _schema: default
-title: Home
+<!-- title: Home -->
 call_to_action: Contact
 large_header: true
 menu:
@@ -20,11 +20,14 @@ testimonials:
     image: "uploads/tmc-logo.png"
     name: Head of enterprise architecture
 ---
-Do you have a complex problem, but lack the time or skill set to address it?
 
-Do you feel your strategic initiatives, processes or structures aren't working effectively, but it's hard to unpick why that is?
+* Is year-on-year growth proving elusive or hard to maintain?
+* Are multi-year programs hard to keep on track?
+* Do your organisational functions struggle to collaborate effectively across silos?
+* Do you suffer from disengagement and staff turnover?
+* Are you concerned about what the future holds and how your organisation can adapt?
 
-Are you concerned about what the future holds and how your organisation can adapt?
+These may be symptoms of systemic issues within your organisation, the wider environment in which it operates or the interaction between them. Traditional management techniques based on long-term planning, top-down control and targets can’t address these issues.
 
 **Consider engaging me as someone who can ask the right questions, synthesise knowledge from across the silos in your organisation, bring in outside insights and present it all in a way that makes sense and helps you decide what to do next.**
 

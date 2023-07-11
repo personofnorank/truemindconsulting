@@ -21,7 +21,7 @@ enableInlineShortcodes = true
 
 [params]
   backgroundImagePath = "/uploads/tmc-logo.png"
-  description = "Sensemaking for uncertain times; navigating complexity and uncertainty; wicked problems; predicaments; identifying opportunities for action"
+  description = "Sensemaking;  organisation; resilience; navigating complexity and uncertainty; wicked problems; predicaments; identifying opportunities for action"
   images = ["siteicon.png"]
   title = "True Mind Consulting"
 
