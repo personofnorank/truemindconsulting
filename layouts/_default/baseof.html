@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 		<title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Params.Title }}{{ end }}</title>
-		<meta name="viewport" content="width=device-width,minimum-scale=1" />
+		<meta name="viewport" content="width=device-width,minimum-scale=1", user-scalable="yes" />
 		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 		{{ hugo.Generator }}
 
@@ -36,7 +36,8 @@
 	</head>
 
 	<body>
-		{{ block "header" . }}{{ partial "site-header.html" . }}{{ end }}
+		{{ block "header" . }}{{ partial "site-header.html" . }}
+{{ end }}
 
 		<section class="main">
 			<div class="container">
@@ -50,29 +51,13 @@
 				<div id="map"></div>
 			</section>
 		{{ else if eq .Params.call_to_action "Contact" }}
-			<section class="quote-section">
-				<p class="container editable">
-				</p>
+			<section class="click-to-talk">
+<a class="button-link" href="https://cal.com/truemindconsulting" target="_blank" rel="noopener noreferrer">Click here to talk</a>
 			</section>
 		{{ else }}
-			<section class="quote-section">
-				<p class="container editable">
-			<!--		<a href="/blog/">Blog</a> -->
-	
-				</p>
-			</section>
 	{{ end }}
 
 		{{ block "footer" . }}{{ partialCached "site-footer.html" . }}
-<!-- Cal floating-popup embed code begins -->
-<script type="text/javascript">
-(function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; typeof namespace === "string" ? (cal.ns[namespace] = api) && p(api, ar) : p(cal, ar); return; } p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-Cal("init", {origin:"https://app.cal.com"});
-
-Cal("floatingButton", {"calLink":"truemindconsulting"});
-Cal("ui", {"styles":{"branding":{"brandColor":"#000000"}},"hideEventTypeDetails":false,"layout":"month_view"});
-</script>
-<!-- Cal floating-popup embed code ends -->
 {{ end }}
 	</body>
 </html>

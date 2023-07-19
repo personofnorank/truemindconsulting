@@ -1,6 +1,6 @@
 name: Unknown
 description: This is the default when no matching author is found.
-image: "uploads/tmc-logo.png"
+image: "uploads/tmc-logo-250mm.png"
 credentials:
 phone_extension:
 is_staff_member: false

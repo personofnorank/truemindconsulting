@@ -1,6 +1,6 @@
 ---
 title: Affiliations
-call_to_action: Map
+call_to_action: Contact
 large_header: false
 menu:
   main:
