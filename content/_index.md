@@ -20,13 +20,12 @@ testimonials:
     image: "uploads/tmc-logo-319px.png"
     name: Head of enterprise architecture
 ---
-* Is year-on-year growth proving elusive or hard to maintain?
+* Do you find it hard to see the wood for the trees?
 * Are initiatives and programs hard to keep on track?
-* Do your organisational functions struggle to collaborate effectively across silos?
-* Do you suffer from disengagement and staff turnover?
-* Are you concerned about what the future holds and how your organisation can adapt?
+* Do you struggle to foster collaboration across silos?
+* Do you have a "big hairy problem" that you just don't have bandwidth to address properly?
 
-These are symptoms of systemic issues which we can work through, if you are willing.
+I can help you work through systemic issues like these.
 
 <p class="centred-para"><a class="button-link" href="https://cal.com/truemindconsulting" target="_blank" rel="noopener noreferrer">Click here to talk</a></p>
 
