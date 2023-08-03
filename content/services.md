@@ -9,11 +9,6 @@ menu:
     weight: 4
 ---
 
-### Operational resilience
-Build, improve or assure an operational resilience capability in your organisation, understanding not just regulatory or framework requirements but also the nuances of how your organisation works and what's most important to you. 
-
-*Tried and tested experience building, improving and assuring operational resilience in regulated industries.*
-
 ### Operating model and organisation design
 Diagnose issues with your operating model, or work with you to design and implement a new one, starting from understanding the purpose and culture of your organisation. 
 
@@ -23,6 +18,12 @@ Diagnose issues with your operating model, or work with you to design and implem
 Stand up or refocus a program to deliver your objectives, understanding who the stakeholders are and what they need as well as the way things get done in your organisation. 
 
 *PRINCE2 certified, comfortable with Agile and SAFe but above all pragmatic, with practical experience of setting up new programs and turning around struggling ones.*
+
+### Risk and resilience
+Build or enhance your organisation's risk management capability by focusing on your purpose, objectives and obligations, and how those are affected by uncertainty. Distinguish between risks worth taking and risks to avoid at all costs.
+Build, improve or assure an operational resilience capability in your organisation, understanding not just regulatory or framework requirements but also the nuances of how your organisation works and what's most important to you. 
+
+*Tried and tested experience building, improving and assuring risk management and operational resilience in regulated industries.*
 
 ### Complex situations
 
