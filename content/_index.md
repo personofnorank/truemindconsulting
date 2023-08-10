@@ -8,16 +8,16 @@ menu:
     weight: 1
 testimonials:
   - message: The smartest person I know
-    image: "uploads/tmc-logo-319px.png"
+    image: "uploads/tmc-logo-1400px.png"
     name: SVP product strategy
   - message: I can always outsource my thinking to you
-    image: "uploads/tmc-logo-319px.png"
+    image: "uploads/tmc-logo-1400px.png"
     name: Head of operational resilience
   - message: You can turn your hand to anything
-    image: "uploads/tmc-logo-319px.png"
+    image: "uploads/tmc-logo-1400px.png"
     name: Head of production services
   - message: Sharing complex knowledge in an accessible and consumable way
-    image: "uploads/tmc-logo-319px.png"
+    image: "uploads/tmc-logo-1400px.png"
     name: Head of enterprise architecture
 ---
 * Do you find it hard to see the wood for the trees?
