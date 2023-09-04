@@ -15,7 +15,7 @@ menu:
 - Risk diagnostic 
 	- A fixed-price review of risks to your objectives, taking into account any relevant regulations and risk factors specific to your sector, with actionable recommendations.
 
-*Experience mentoring small business owners through Digital Boost programme
+*Experience mentoring small business owners through Digital Boost programme.*
 
 ### Public bodies and corporations
 - Operational risk and resilience
