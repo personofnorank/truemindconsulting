@@ -9,5 +9,5 @@ menu:
     weight: 5
 ---
 
-[Quiet Visionaries](https://castopod.truemindconsulting.com/@quietvisionaries)
+[Quiet Visionaries](https://listen.truemindconsulting.com/@quietvisionaries)
 
