@@ -20,7 +20,7 @@ testimonials:
     image: "uploads/tmc-logo-1400px.png"
     name: Head of enterprise architecture
 ---
-* Do you find it hard to see the wood for the trees?
+* Do you know your organisation is making the most of its opportunities and on track to reach its goals?
 * Do you worry about keeping your risks under control... or even knowing what they are?
 * Are initiatives and programs hard to keep on track?
 * Do you struggle to foster collaboration across silos?
