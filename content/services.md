@@ -9,30 +9,20 @@ menu:
     weight: 4
 ---
 
-### Small businesses and non-profits
-- Opportunity diagnostic
-	- A fixed-price review of how well your organisation is set up to succeed, starting from your purpose and the environment you operate in and going through your strategy and operations, with actionable recommendations.
-- Risk diagnostic 
-	- A fixed-price review of risks to your objectives, taking into account any relevant regulations and risk factors specific to your sector, with actionable recommendations.
+### Right-hand man as a service
 
-*Experience mentoring small business owners through Digital Boost programme.*
+You're a busy leader. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or people to do justice to them. Whether you're worried about anticipating the next disruptive threat, or responding to a sudden change in the landscape, or just figuring out why certain things aren't quite working - you could do with someone to talk to.
 
-### Public bodies and corporations
-- Operational risk and resilience
-	- Diagnose issues with your operating model, starting from understanding the purpose of your organisation and identifying weak points in how you engage your people, and how tools, processes, suppliers and other assets interact to further or hinder your objectives.
-	- Build or enhance your organisation's risk management capability by focusing on your purpose, objectives and obligations, and how those are affected by uncertainty. Distinguish between risks worth taking and risks to avoid at all costs.
-	- Build, improve or assure an operational resilience capability in your organisation, understanding not just regulatory or framework requirements but also the nuances of how your organisation works and what's most important to you. 
+You need someone who's not tied up in the day-to-day, can pick up the big picture as well as the details of what's going on and give you value-adding advice and challenge.
 
-*Chief of Staff experience in technology, risk and product functions. Experience of building, improving and assuring risk management and operational resilience in regulated industries.*
+Someone like me.
 
-- Program risk review
-	- Independently review project and program risks at all levels, from scheduling and cost uncertainties to hidden assumptions and dependencies that can derail you.
+I'm a serial Chief of Staff and trusted advisor on complex issues and programmes, a critical thinker and pragmatic doer who thrives on dialogue with leaders like you to flush out and address their big hairy problems. I know enough to be dangerous but most importantly I know how to ask the right questions. Engage me as your right-hand man on an interim, fractional or ongoing basis. Your needs may lie somewhere on the spectrum from critical friend to hands-on fixer - we'll work it out.
 
-*PRINCE2 certified, comfortable with Agile and SAFe but above all pragmatic, with practical experience of setting up new programs and turning around struggling ones.*
+*Some relevant experience:*
+- Chief of Staff in product and technology teams
+- Risk and resilience leadership roles
+- Programme management and turnaround 
+- Work on tricky situations and dilemmas ranging from racial equality legislation in South Africa, through competitive challenges in the European payments landscape to promoting adaptation to climate change
 
-- Strategic risk and complex situations
-
-	- Engage me to help you frame, understand and decide what to do about a complex issue. I start from your oganisation's purpose and help you frame the problem before working with your team to look at it from all angles. I won't claim to predict the future or solve all your problems but I will help you understand challenges in your environment, internal factors that may make you less effective in adapting, and what you can do about them. 
-
-*Experience with tricky situations and dilemmas ranging from racial equality legislation in South Africa, through competitive challenges in the European payments landscape to work with organisations promoting adaptation to climate change.*
-
+[comment]: # (- COO of an academy providing training in systems thinking and leadership for the 21<sup>st</sup> Century)
