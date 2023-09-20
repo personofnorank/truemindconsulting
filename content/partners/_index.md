@@ -19,4 +19,4 @@ map:
 -->
 Use [this link](https://www.enlightenedenterprise.io/jake-hoban-critical-systems-thinking) to receive a 15% discount on the online course Critical Systems Thinking and the Management of Complexity.
 
-Privacy policy: contact details collected from form submissions will be used to contact you about this offering and other relevant offerings from True Mind Consulting or its partners listed on this page, and not shared with third parties without your express consent. We will remove your details promptly on request.
+*Privacy policy: contact details collected from form submissions will be used to contact you about this offering and other relevant offerings from True Mind Consulting or its partners listed on this page, and not shared with third parties without your express consent. We will remove your details promptly on request.*

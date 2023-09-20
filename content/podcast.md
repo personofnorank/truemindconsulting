@@ -9,5 +9,5 @@ menu:
     weight: 5
 ---
 
-[Quiet Visionaries](https://listen.truemindconsulting.com/@quietvisionaries)
+Listen to the [Quiet Visionaries](https://listen.truemindconsulting.com/@quietvisionaries) podcast.
 
