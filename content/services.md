@@ -12,7 +12,7 @@ menu:
 ### Right-hand man as a service
 *Is this you?*
 
-You're a leader in a business that makes a difference through providing excellent customer service or running essential infrastructure. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or people to do justice to them. Whether you're worried about anticipating the next disruptive threat, responding to a sudden change in the landscape, or just figuring out why certain things aren't quite working - you could do with someone to talk to.
+You're a leader doing work that matters by serving the public or running essential infrastructure. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or people to do justice to them. Whether you're worried about anticipating the next disruptive threat, responding to a sudden change in the landscape, or just figuring out why certain things aren't quite working - you could do with some help.
 
 You need someone who's not tied up in the day-to-day, can pick up the big picture as well as the details of what's going on and give you value-adding advice and challenge.
 
