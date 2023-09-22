@@ -20,7 +20,7 @@ enableInlineShortcodes = true
   posts = ":section/:year/:month/:day/:title/"
 
 [params]
-  backgroundImagePath = "/uploads/tmc-logo-319px.png"
+  backgroundImagePath = "/uploads/tmc-logo-round.png"
   description = "Sensemaking;  organisation; resilience; navigating complexity and uncertainty; wicked problems; predicaments; identifying opportunities for action"
   images = ["siteicon.png"]
   title = "True Mind Consulting"

@@ -8,16 +8,16 @@ menu:
     weight: 1
 testimonials:
   - message: The smartest person I know
-    image: "uploads/tmc-logo-1400px.png"
+    image: "uploads/tmc-logo-round.png"
     name: SVP product strategy
   - message: I can always outsource my thinking to you
-    image: "uploads/tmc-logo-1400px.png"
+    image: "uploads/tmc-logo-round.png"
     name: Head of operational resilience
   - message: You can turn your hand to anything
-    image: "uploads/tmc-logo-1400px.png"
+    image: "uploads/tmc-logo-round.png"
     name: Head of production services
   - message: Sharing complex knowledge in an accessible and consumable way
-    image: "uploads/tmc-logo-1400px.png"
+    image: "uploads/tmc-logo-round.png"
     name: Head of enterprise architecture
 ---
 * Do you know your organisation is making the most of its opportunities and on track to reach its goals?

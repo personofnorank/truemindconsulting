@@ -9,10 +9,10 @@ menu:
     weight: 4
 ---
 
-### Right-hand man as a service
+### Right-hand man for leaders who care
 *Is this you?*
 
-You're a leader doing work that matters by serving the public or running essential infrastructure. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or people to do justice to them. Whether you're worried about anticipating the next disruptive threat, responding to a sudden change in the landscape, or just figuring out why certain things aren't quite working - you could do with some help.
+You're a leader doing work that matters. You may be motivated by looking after your people, serving the public, giving back to your community or addressing urgent problems. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or people to do justice to them. Whether you're worried about anticipating the next disruptive threat, responding to a sudden change in the landscape, or just figuring out why certain things aren't quite working - you could do with some help.
 
 You need someone who's not tied up in the day-to-day, can pick up the big picture as well as the details of what's going on and give you value-adding advice and challenge.
 
@@ -25,6 +25,6 @@ I'm a serial Chief of Staff and advisor on complex issues and programmes, a crit
 - Risk and resilience leadership roles
 - Programme management and turnaround 
 - Started at the bottom in tech support, ended up as head of tech risk for critical payments infrastructure
-- Work on tricky situations and dilemmas ranging from racial equality legislation in South Africa, through competitive challenges in the European payments landscape to promoting adaptation to climate change
+- Worked on tricky situations and dilemmas ranging from racial equality legislation in South Africa, through competitive challenges in the European payments landscape to promoting adaptation to climate change
 
 [comment]: # (- COO of an academy providing training in systems thinking and leadership for the 21<sup>st</sup> Century)
