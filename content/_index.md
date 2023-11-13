@@ -20,16 +20,19 @@ testimonials:
     image: "uploads/tmc-logo-round.png"
     name: Head of enterprise architecture
 ---
-### Right-hand man service for leaders who care
-*Is this you?*
+### Your biggest problems don't live in silos ###
 
-You're doing work that matters. You may be motivated by looking after your people, serving the public, giving back to your community or addressing urgent problems. You have your team in place and things are getting done. And yet... there are things you know are important, but you don't have the time or resources to do justice to them. Whether you're worried about anticipating the next disruptive threat, responding to a change in the landscape, or just figuring out why certain things aren't quite working &mdash; you could do with some help.
+* The technology transformation that fails to deliver benefits because underlying ways of working don't change.
+* The process that people have tried to improve for years but is still inexplicably slow or error-prone.
+* The operational risk that was supposed to have been resolved but just happened again.
+* The disruptive challenge that seems hard to respond to because everyone only sees it from the angle they understand.
+* The sustainability, employee engagement or other strategy that's disconnected from the overall business strategy. 
 
-You need someone who's not tied up in the day-to-day, can pick up the big picture as well as the details of what's going on and give you value-adding advice and challenge.
+### See and act systemically for greater impact ###
 
-*Someone like me.*
+It's tempting to try short-term fixes that only address the symptoms &mdash; but that doesn't change the underlying drivers, can have unintended consequences and ends up becoming part of the problem.
 
-I'm a serial Chief of Staff and advisor on complex issues and programmes, a critical thinker and pragmatic doer who thrives on dialogue with leaders like you to flush out and address their big hairy problems. I know enough to be dangerous but most importantly I know how to ask the right questions. Engage me as your right-hand man on an interim, fractional or ongoing basis. Your needs may lie somewhere on the spectrum from trusted advisor to hands-on fixer - we'll work it out.
+Systemic approaches can address the kind of issues you're dealing with. With the right help you can bring clarity to a difficult situation and take action to improve it. 
 
 
 <p class="centred-para"><a class="button-link" href="https://cal.com/truemindconsulting" target="_blank" rel="noopener noreferrer">Click here to talk</a></p>
